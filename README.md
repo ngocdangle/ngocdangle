@@ -1,27 +1,13 @@
-### Hi, I'm Ngoc :rabbit: ![Hi](https://github.com/user-attachments/assets/59285c45-57d9-4472-9598-62d8213faae5)
 
-<!--
+<h1 align="center">Hi, I'm Ngoc <img src="https://github.com/user-attachments/assets/5d1abce8-fd0a-4f57-8a7e-686beb4dea88"></h1>
 
-**ngocdangle/ngocdangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-***
 ## 🌟 About me
 
 - 👩‍🎓 I'm studying **Media Informatic** at HSD 
 - 🎨 I’m a hobby artist and a big **cat lover** :cat:
 - 🎮 I love games and dream of bringing my own story to life one day — whether as a game or a comic.
 - 🌐 I’m passionate about web design and aim to work as a Full-Stack Developer in the future.
+- 💡 I love learning new things and leveling up my skills 
 
 ## 🛠️ Tech & Tools I Use
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
